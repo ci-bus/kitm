@@ -1,0 +1,8 @@
+BLE STACK V2.2.1:
+http://www.ti.com/tool/BLE-STACK-ARCHIVE
+
+CCS 7.4.0:
+http://processors.wiki.ti.com/index.php/Download_CCS?sp_rid_pod4=NzUwNjAxOTg4NwS2&sp_mid_pod4=49552754&detailID=
+
+BLE Examples:
+https://github.com/ti-simplelink/ble_examples/tree/ble_examples-2.2

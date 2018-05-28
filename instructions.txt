@@ -1,0 +1,25 @@
+1. Install this packages (under install folder):
+
+CCS 7.4.0:
+http://processors.wiki.ti.com/index.php/Download_CCS?sp_rid_pod4=NzUwNjAxOTg4NwS2&sp_mid_pod4=49552754&detailID=
+
+BLE Examples:
+https://github.com/ti-simplelink/ble_examples/tree/ble_examples-2.2
+
+BLE STACK V2.2.1:
+http://www.ti.com/tool/BLE-STACK-ARCHIVE
+
+2. Add the project code:
+
+overwrite the two folders on your computer:
+ - 'ble_examples-ble_examples-2.2'
+ - 'ble_sdk_2_02_01_18'
+ 
+with the folder under the 'code' folder here, this will overwrite the desired files.
+
+3. Run Code
+
+Open CCS and import the 2 projects from '\ble_examples-ble_examples-2.2\examples\cc2650lp':
+ - 'hid_emu_kbd' - for the fake keyboard - peripheral
+ - 'simple_central' - for the fake computer - central
+
