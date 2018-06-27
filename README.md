@@ -7,7 +7,7 @@ Submitted by Mattan Serry, Sharon Lifshits and Hila Balahsan as a final project 
 
 Requirements:
 
-1. [Code Composer Studio 7.4.0](http://processors.wiki.ti.com/index.php/Download_CCS#Code_Composer_Studio_Version_7_Downloads) and [BLE SDK 2.02.01.18](http://www.ti.com/tool/ble-stack).
+1. [Code Composer Studio 7.4.0](http://processors.wiki.ti.com/index.php/Download_CCS#Code_Composer_Studio_Version_7_Downloads) and [BLE SDK 2.02.01.18](http://www.ti.com/tool/ble-stack) with [these modifications](https://github.com/mattans/kitm/tree/master/code/ble_sdk_2_02_01_18/src).
 2. CC-2650 LP board running the [Simple Central](https://github.com/ti-simplelink/ble_examples/tree/ble_examples-2.2/examples/cc2650lp/simple_central) application with [these modifications](https://github.com/mattans/kitm/tree/master/code/ble_examples-ble_examples-2.2/src/examples/simple_central/cc26xx/app), acting as fake computer.
 3. CC-2650 LP board running the [HID Emu Kbd](https://github.com/ti-simplelink/ble_examples/tree/ble_examples-2.2/examples/cc2650lp/hid_emu_kbd) application with [these modifications](https://github.com/mattans/kitm/tree/master/code/ble_examples-ble_examples-2.2/src/examples/hid_emu_kbd/cc26xx/app), acting as fake keyboard.
 
