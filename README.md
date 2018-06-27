@@ -11,7 +11,7 @@ Requirements:
 2. CC-2650 LP board running the [Simple Central](https://github.com/ti-simplelink/ble_examples/tree/ble_examples-2.2/examples/cc2650lp/simple_central) application with [these modifications](https://github.com/mattans/kitm/tree/master/code/ble_examples-ble_examples-2.2/src/examples/simple_central/cc26xx/app), acting as fake computer.
 3. CC-2650 LP board running the [HID Emu Kbd](https://github.com/ti-simplelink/ble_examples/tree/ble_examples-2.2/examples/cc2650lp/hid_emu_kbd) application with [these modifications](https://github.com/mattans/kitm/tree/master/code/ble_examples-ble_examples-2.2/src/examples/hid_emu_kbd/cc26xx/app), acting as fake keyboard.
 
-Detailed walkthorugh and project presentation can be found [here](https://github.com/mattans/kitm/blob/master/KeyboardInTheMiddle.pdf).
+Detailed walkthorugh and project presentation can be found [here](https://github.com/mattans/kitm/blob/master/KeyboardInTheMiddle.pdf). A demo video in Hebrew can be found [here](https://github.com/mattans/kitm/blob/master/demo.mp4).
 
 ## License:
 
