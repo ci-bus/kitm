@@ -16,7 +16,8 @@ Detailed walkthorugh and project presentation can be found [here](https://github
 ## License:
 
 The original BLE SDK is copyrighted under the [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause) license:
-> Copyright (C) 2016 Texas Instruments Incorporated - http://www.ti.com/
-Furthermore, every source file begins with a copyrights decleration. 
 
-Our modifications are also under the BSD-3-Clause. If you distribute our source code, please retain all copyrights and licensing information.
+> Copyright (C) 2016 Texas Instruments Incorporated - http://www.ti.com/
+
+Furthermore, every source file begins with a copyrights decleration. 
+Our modifications are also under the BSD-3-Clause. If you redistribute our source code, please retain all copyrights and licensing information.
