@@ -12,3 +12,11 @@ Requirements:
 3. CC-2650 LP board running the [HID Emu Kbd](https://github.com/ti-simplelink/ble_examples/tree/ble_examples-2.2/examples/cc2650lp/hid_emu_kbd) application with [these modifications](https://github.com/mattans/kitm/tree/master/code/ble_examples-ble_examples-2.2/src/examples/hid_emu_kbd/cc26xx/app), acting as fake keyboard.
 
 Detailed walkthorugh and project presentation can be found [here](https://github.com/mattans/kitm/blob/master/KeyboardInTheMiddle.pdf).
+
+## License:
+
+The original BLE SDK is copyrighted under the [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause) license:
+> Copyright (C) 2016 Texas Instruments Incorporated - http://www.ti.com/
+Furthermore, every source file begins with a copyrights decleration. 
+
+Our modifications are also under the BSD-3-Clause. If you distribute our source code, please retain all copyrights and licensing information.
